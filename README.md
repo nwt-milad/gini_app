@@ -1,5 +1,5 @@
 # gini_app
-Esta aplicación web calcula el indice de Gini y modela una curva de Lorenz:
+Esta aplicación web calcula el indice de Gini y dibuja una curva de Lorenz:
 A partir de unos datos introducidos en una BBDD en SQLite3.
 
 Web Application that computes Gini index and draws a Lorenz Curve.
